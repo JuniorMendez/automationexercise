@@ -1,0 +1,21 @@
+{
+  "productURL":"/product_details",
+  "quantity": "30",
+  "addedText":"Added!",
+  "signupURL": "signup",
+  "FName": "Sr Perez",
+  "LName": "DR",
+  "Address": "Testing #23",
+  "State": "SD",
+  "City": "NY",
+  "ZipCode": "100",
+  "MobileNumber": "18097558585",
+  "accountCreated": "Account Created!",
+  "TestComment": "This is a test",
+  "CarNumber": "2525656545453333",
+  "CVC": "000",
+  "Month": "02",
+  "Year": "2024",
+  "SuccessfulPayment": "Order Placed!",
+  "SubmittedText": "Success! Your details have been submitted successfully."
+ }
