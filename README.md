@@ -15,8 +15,6 @@ Web test automation for an clothing store.
 
    `git clone <repository-url>`
 
-   `cd automation`
-
    Install the dependencies:
 
     `npm install`
