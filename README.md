@@ -21,14 +21,6 @@ Web test automation for an clothing store.
 
 # 3. Configuration:
 
-    Cypress Configuration (cypress.config.js):
-
-
-
-
-<img width="382" alt="image" src="https://github.com/JuniorMendez/automationexercise/assets/30270548/7334f3da-2782-444e-a36c-ce8d52b3a00a">
-
-
 
 Add Mochawesome Reporter in cypress/support/e2e.js:
 
