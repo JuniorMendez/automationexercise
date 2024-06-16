@@ -45,7 +45,7 @@ Add Mochawesome Reporter in cypress/support/e2e.js:
 
   `Run npm test` to execute the tests in test runner | `Run npx cypress run` to execute the tests in CLI.
 
-Generating Reports:
+# Generating Reports:
 
   The test reports will be generated automatically in the cypress\reports\html\ directory using the Mochawesome reporter.
 
